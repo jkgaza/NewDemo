@@ -1,0 +1,39 @@
+p{
+    color: brown;
+}
+
+p.doggo{
+    color:blue;
+}
+
+p#doggo-1{
+    color:red;
+}
+
+section{
+    border: 1px solid #000;
+}
+
+/*This is a css comment*/
+
+a:link { /* unvisited link */
+    color: aliceblue;
+    text-decoration: line-through;
+    }
+    a:visited { /* visited link */
+    color: darkblue;
+    }
+    a:hover { /* mouse over link */
+    color: lightblue;
+    }
+    a:active { /* mouse click link */
+    color: yellow;
+    }
+
+h2{
+    font-size: 2em;
+}
+
+h1{
+    font-size: 150%;
+}
